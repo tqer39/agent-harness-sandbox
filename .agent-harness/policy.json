@@ -1,0 +1,1 @@
+{"verify":["sh","test.sh"],"required_check":"workflow-result"}
